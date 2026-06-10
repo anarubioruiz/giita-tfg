@@ -20,7 +20,7 @@
 
 %
 % Modifications © 2024 Ana Rubio Ruiz
-% gita-tfg.cls
+% giita-tfg.cls
 %
 % This modified version of the program includes additional content and
 % style changes made by Ana Rubio Ruiz. These modifications are also
@@ -38,7 +38,7 @@
 % Foundation, Inc., 51 Franklin St, Fifth Floor, Boston, MA  02110-1301  USA
 
 \NeedsTeXFormat{LaTeX2e}
-\ProvidesClass{gita-tfg}[2013/08/15 TFG del Grado de Ing. Informática de Talavera de la Reina]
+\ProvidesClass{giita-tfg}[2013/08/15 TFG del Grado de Ing. Informática de Talavera de la Reina]
 \DeclareOption*{\PassOptionsToClass{\CurrentOption}{book}}
 \PassOptionsToClass{a4paper, 12pt, oneside, openright}{book}
 \ProcessOptions\relax
@@ -338,7 +338,7 @@
   \end{picture}
 }
 
-\newcommand{\GITAhead}{
+\newcommand{\GIITAhead}{
   \setlength{\unitlength}{1cm}
   \begin{picture}(0,0)
     \put(-4,-1.5){
@@ -349,7 +349,7 @@
 \newpagestyle{firstpage}[\small\sffamily]{
   \sethead{\UCLMhead{}} %
           {} %
-          {\GITAhead{}}
+          {\GIITAhead{}}
 }
 
 \newpagestyle{mainstyle}[\small\sffamily]{
@@ -667,10 +667,10 @@
   \begin{singlespacing}
   \begin{center}
     Este documento fue editado y tipografiado con \LaTeX{}\\
-    empleando la clase \textbf{gita-tfg} que se puede encontrar en:\\
-    \url{https://github.com/anarubioruiz/gita-tfg}
+    empleando la clase \textbf{giita-tfg} que se puede encontrar en:\\
+    \url{https://github.com/anarubioruiz/giita-tfg}
 
-    La clase \textbf{gita-tfg} está basada en la clase \textbf{esi-tfg}:\\
+    La clase \textbf{giita-tfg} está basada en la clase \textbf{esi-tfg}:\\
     \url{https://github.com/UCLM-ESI/esi-tfg}
 
     \bigskip

@@ -1,6 +1,6 @@
-# GITA-TFG
+# GIITA-TFG
 
-**GITA-TFG** es una clase LaTeX para escribir cómodamente la memoria del TFG (Trabajo Fin de Grado) basada en la clase [esi-tfg](https://github.com/UCLM-ESI/esi-tfg) creada para la Escuela Superior de Informática de Ciudad Real. GITA-TFG se corresponde con la especificación de formato del Grado en Ingeniería Informática de la Facultad de Ciencias Sociales y Tecnologías de la Información de Talavera de la Reina, pero es sencillo adaptarla si estudias en otro sitio.
+**GIITA-TFG** es una clase LaTeX para escribir cómodamente la memoria del TFG (Trabajo Fin de Grado) basada en la clase [esi-tfg](https://github.com/UCLM-ESI/esi-tfg) creada para la Escuela Superior de Informática de Ciudad Real. GIITA-TFG se corresponde con la especificación de formato del Grado en Ingeniería Informática de la Facultad de Ciencias Sociales y Tecnologías de la Información de Talavera de la Reina, pero es sencillo adaptarla si estudias en otro sitio.
 
 La normativa actual se puede encontrar en:
 
@@ -27,4 +27,4 @@ y descargar el fichero _atbeginend.sty_.
 
 ## Overleaf
 
-También puedes editar tu proyecto utilizando el editor online [Overleaf](http://www.overleaf.com). Simplemente aplica la plantilla [GITA-TFG](https://www.overleaf.com/latex/templates/gita-tfg/sdnbtvhxdgsn) pulsando en "_Open as template_".
+También puedes editar tu proyecto utilizando el editor online [Overleaf](http://www.overleaf.com). Simplemente aplica la plantilla [GIITA-TFG](https://www.overleaf.com/latex/templates/giita-tfg/sdnbtvhxdgsn) pulsando en "_Open as template_".
