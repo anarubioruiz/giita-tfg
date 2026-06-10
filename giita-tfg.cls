@@ -401,9 +401,9 @@
 \newcommand{\@homepage}{}
 \newcommand{\homepage}[1]{\renewcommand{\@homepage}{#1}}
 
-\newcommand{\@intensification}{}
-\newcommand{\intensification}[1]{%
-  \renewcommand{\@intensification}{#1}}
+\newcommand{\@specialization}{}
+\newcommand{\specialization}[1]{%
+  \renewcommand{\@specialization}{#1}}
 
 \newcommand{\@advisor}{}
 \newcommand{\@advisortitle}{}
@@ -523,7 +523,7 @@
 
     \vspace*{\stretch{6}}
     \includegraphics[width=14cm]{F_CCSSTI_UCLM.png}
-    \vspace*{\stretch{6}}
+    \vspace*{\stretch{5}}
 
     \sffamily
     UNIVERSIDAD DE CASTILLA-LA MANCHA \\
@@ -532,15 +532,15 @@
     \vspace*{\stretch{2}}
 
     \bfseries\Large  % Bold weight for the degree
-    GRADO EN INGENIERÍA INFORMÁTICA \\
-    {\normalsize \MakeUppercase{\@intensification}}
+    GRADO EN INGENIERÍA INFORMÁTICA \\[0.8em]
+    {\normalsize Mención en \\[-0.8em] \MakeUppercase{\@specialization}}
 
     \vspace*{\stretch{4}}
 
     \normalfont\Large\sffamily  % Normal weight for "Trabajo Fin de Grado"
     Trabajo Fin de Grado
 
-    \vspace*{\stretch{4}}
+    \vspace*{\stretch{3}}
 
     {\LARGE\bfseries \@title}
   \end{center}

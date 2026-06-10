@@ -25,6 +25,6 @@ Además, tendrás que instalar los siguientes paquetes:
 
 y descargar el fichero _atbeginend.sty_.
 
-## Overleaf
+## **Overleaf**
 
 También puedes editar tu proyecto utilizando el editor online [Overleaf](http://www.overleaf.com). Simplemente aplica la plantilla [GIITA-TFG](https://www.overleaf.com/latex/templates/giita-tfg/sdnbtvhxdgsn) pulsando en "_Open as template_".
