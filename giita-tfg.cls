@@ -577,7 +577,9 @@
 \newcommand{\authorship}{%
   \cleardoublepage
   \chapter*{Declaración de autoría}
-  Yo, \@author\unskip, declaro que soy la única persona autora del trabajo fin de grado titulado \textit{\@title}\unskip, que el citado trabajo no infringe las leyes vigentes sobre propiedad intelectual, y que todo el material no original contenido en dicho trabajo está apropiadamente atribuido a quienes corresponda.
+  Yo, \@author\unskip, declaro que soy la única persona autora del Trabajo Fin de Grado titulado \textit{\@title}\unskip, que no se infringen las leyes vigentes sobre propiedad intelectual, y que todo el material no original está apropiadamente atribuido a quienes corresponda.
+
+  Asimismo, declaro que, en caso de haber utilizado herramientas de Inteligencia Artificial durante la elaboración del trabajo, dicho uso ha sido responsable, transparente y acorde a la normativa de la universidad, sin comprometer la autoría ni la integridad intelectual.
 
   \begin{center}
     \vspace{2cm}
